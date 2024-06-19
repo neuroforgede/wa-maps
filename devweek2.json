@@ -8896,12 +8896,30 @@
          "tilewidth":32
         }, 
         {
+         "columns":20,
          "firstgid":13179,
-         "source":"Hall OF Fame_tiny.tsx"
+         "image":"Hall OF Fame_tiny.png",
+         "imageheight":800,
+         "imagewidth":640,
+         "margin":0,
+         "name":"Hall OF Fame_tiny",
+         "spacing":0,
+         "tilecount":500,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":23,
          "firstgid":13679,
-         "source":"Hall_of_Fame_tiles.tsx"
+         "image":"Hall_of_Fame_tiles.png",
+         "imageheight":880,
+         "imagewidth":736,
+         "margin":0,
+         "name":"Hall_of_Fame_tiles",
+         "spacing":0,
+         "tilecount":621,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
